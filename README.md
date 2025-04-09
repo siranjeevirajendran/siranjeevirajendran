@@ -1,6 +1,7 @@
 ## Hi there Its me Siranjeevi
 
 Computer Application Student
+
 -📚 Pursuing BCA: Currently enrolled in an online Bachelor of Computer Applications (BCA) program at SASTRA University, building a strong foundation in computer science and programming.
 
 -💼 Operations Analyst at nStore Retech Pvt Ltd: Working in an e-commerce environment, analyzing operations and contributing to streamlined processes and efficiency.
